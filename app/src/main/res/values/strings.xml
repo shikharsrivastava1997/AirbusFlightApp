@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AirbusFlightApp</string>
+    <string name="from">From</string>
+    <string name="ny">NY</string>
+    <string name="new_york">New York</string>
+    <string name="to">To</string>
+    <string name="hnd">HND</string>
+    <string name="tokyo_haneda">Tokyo Haneda</string>
+    <string name="depart">Depart</string>
+    <string name="type">Type</string>
+    <string name="adults">Adults</string>
+    <string name="_01">01</string>
+    <string name="premium_economy">Premium Economy</string>
+    <string name="business_clas">Business Clas</string>
+    <string name="economy">Economy</string>
+    <string name="first_class">First Class</string>
+    <string name="children">Children</string>
+    <string name="one_way">One way</string>
+</resources>
